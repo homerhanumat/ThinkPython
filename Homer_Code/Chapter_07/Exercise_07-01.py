@@ -26,4 +26,5 @@ for a in range(9):
     print('{:<7.1f}{:<15.8f}{:<15.8f}{:<15.8f}'
           .format(a,mine,pythons,diff))
 
-
+# For more on formatted printing, consult:
+# https://pyformat.info/
