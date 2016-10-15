@@ -23,5 +23,9 @@ pip-log.txt
 #Translations
 *.mo
 
+# PyCharm xml files:
+*.xml
+.idea/*.iml
+
 #Mr Developer
 .mr.developer.cfg
