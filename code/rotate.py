@@ -45,6 +45,6 @@ def rotate_word(word, n):
 
 
 if __name__ == '__main__':
-    print rotate_word('cheer', 7)
-    print rotate_word('melon', -10)
-    print rotate_word('sleep', 9)
+    print(rotate_word('cheer', 7))
+    print(rotate_word('melon', -10))
+    print(rotate_word('sleep', 9))
